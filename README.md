@@ -1,16 +1,20 @@
-## Hi there 👋
+## ¡Hola! soy Isaias Ortega 👋
 
-<!--
-**SoulDraks/SoulDraks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Estudiante de Programacion de la Escuela E.E.S.T N°1, actualmente cursando el año 6°3.
+Tengo una gran pasion por el desarrollo de software, la cual me ha permitido aprender mcuho sobre la programacion y desarrollo.
 
-Here are some ideas to get you started:
+Sobre mi:
+- 📒 Secundaria: E.E.S.T N°1 Monte Grande
+- 📨 Email: isaiasortega664@gmail.com
+- 🌍 Pais: Buenos Aires, Argentina
+- 🍜 Comida Favorita: Fideos con tuco 😝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias y Lenguajes de Programacion
+
+FrontEnd:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+BackEnd:
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,lua)](https://skillicons.dev)
