@@ -20,7 +20,7 @@ Tengo una gran pasión por el desarrollo de software y la programación. A lo la
 
 ### ⚙️ BackEnd / Programación
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,lua)](https://skillicons.dev)
 
 ---
 
